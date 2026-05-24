@@ -1,0 +1,1902 @@
+[
+    {
+        "timestamp": "2026-05-24 12:22:17",
+        "cpu": {
+            "kullanim_yuzde": 4.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.62,
+            "bos_gb": 21.65
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:20",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.57,
+            "bos_gb": 21.71
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:23",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:26",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:29",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:32",
+        "cpu": {
+            "kullanim_yuzde": 4.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.56,
+            "bos_gb": 21.72
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:35",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.56,
+            "bos_gb": 21.72
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:38",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:41",
+        "cpu": {
+            "kullanim_yuzde": 5.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:44",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.06
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:47",
+        "cpu": {
+            "kullanim_yuzde": 4.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:50",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:53",
+        "cpu": {
+            "kullanim_yuzde": 3.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:56",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:22:59",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:02",
+        "cpu": {
+            "kullanim_yuzde": 5.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:05",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:08",
+        "cpu": {
+            "kullanim_yuzde": 4.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:11",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:14",
+        "cpu": {
+            "kullanim_yuzde": 5.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:17",
+        "cpu": {
+            "kullanim_yuzde": 3.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.56,
+            "bos_gb": 21.72
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:20",
+        "cpu": {
+            "kullanim_yuzde": 4.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.58,
+            "bos_gb": 21.69
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:23",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:26",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:29",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:32",
+        "cpu": {
+            "kullanim_yuzde": 4.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.56,
+            "bos_gb": 21.72
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:35",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:38",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:41",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:44",
+        "cpu": {
+            "kullanim_yuzde": 3.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:47",
+        "cpu": {
+            "kullanim_yuzde": 3.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:50",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:53",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:56",
+        "cpu": {
+            "kullanim_yuzde": 2.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:23:59",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:02",
+        "cpu": {
+            "kullanim_yuzde": 3.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:05",
+        "cpu": {
+            "kullanim_yuzde": 6.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:08",
+        "cpu": {
+            "kullanim_yuzde": 3.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.6,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:11",
+        "cpu": {
+            "kullanim_yuzde": 2.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:14",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:17",
+        "cpu": {
+            "kullanim_yuzde": 5.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:20",
+        "cpu": {
+            "kullanim_yuzde": 3.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:23",
+        "cpu": {
+            "kullanim_yuzde": 5.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.48,
+            "bos_gb": 21.8
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:26",
+        "cpu": {
+            "kullanim_yuzde": 8.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:29",
+        "cpu": {
+            "kullanim_yuzde": 3.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:32",
+        "cpu": {
+            "kullanim_yuzde": 4.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:35",
+        "cpu": {
+            "kullanim_yuzde": 5.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.48,
+            "bos_gb": 21.8
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:38",
+        "cpu": {
+            "kullanim_yuzde": 3.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.47,
+            "bos_gb": 21.81
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:41",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.48,
+            "bos_gb": 21.8
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:44",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.5,
+            "bos_gb": 21.78
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:47",
+        "cpu": {
+            "kullanim_yuzde": 4.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.45,
+            "bos_gb": 21.82
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:50",
+        "cpu": {
+            "kullanim_yuzde": 5.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.45,
+            "bos_gb": 21.83
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:53",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.45,
+            "bos_gb": 21.82
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:56",
+        "cpu": {
+            "kullanim_yuzde": 3.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.46,
+            "bos_gb": 21.82
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:24:59",
+        "cpu": {
+            "kullanim_yuzde": 5.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.1,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.43,
+            "bos_gb": 21.85
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:02",
+        "cpu": {
+            "kullanim_yuzde": 3.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.45,
+            "bos_gb": 21.83
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:05",
+        "cpu": {
+            "kullanim_yuzde": 3.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.2,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.45,
+            "bos_gb": 21.83
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:08",
+        "cpu": {
+            "kullanim_yuzde": 5.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:11",
+        "cpu": {
+            "kullanim_yuzde": 13.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:14",
+        "cpu": {
+            "kullanim_yuzde": 5.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.54,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:17",
+        "cpu": {
+            "kullanim_yuzde": 3.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.57,
+            "bos_gb": 21.7
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:21",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.57,
+            "bos_gb": 21.71
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:24",
+        "cpu": {
+            "kullanim_yuzde": 3.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.5,
+            "bos_gb": 21.78
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:27",
+        "cpu": {
+            "kullanim_yuzde": 3.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:30",
+        "cpu": {
+            "kullanim_yuzde": 5.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.5,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:33",
+        "cpu": {
+            "kullanim_yuzde": 3.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:36",
+        "cpu": {
+            "kullanim_yuzde": 3.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.48,
+            "bos_gb": 21.79
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:39",
+        "cpu": {
+            "kullanim_yuzde": 5.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.5,
+            "bos_gb": 21.78
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:42",
+        "cpu": {
+            "kullanim_yuzde": 3.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.52,
+            "bos_gb": 21.76
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:45",
+        "cpu": {
+            "kullanim_yuzde": 3.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:48",
+        "cpu": {
+            "kullanim_yuzde": 3.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.49,
+            "bos_gb": 21.79
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:51",
+        "cpu": {
+            "kullanim_yuzde": 3.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.3,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.48,
+            "bos_gb": 21.79
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:54",
+        "cpu": {
+            "kullanim_yuzde": 3.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.51,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:25:57",
+        "cpu": {
+            "kullanim_yuzde": 9.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.72
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:00",
+        "cpu": {
+            "kullanim_yuzde": 3.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.4,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.5,
+            "bos_gb": 21.77
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:03",
+        "cpu": {
+            "kullanim_yuzde": 5.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:06",
+        "cpu": {
+            "kullanim_yuzde": 3.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.75
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:09",
+        "cpu": {
+            "kullanim_yuzde": 4.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.61,
+            "bos_gb": 21.67
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:12",
+        "cpu": {
+            "kullanim_yuzde": 10.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.59,
+            "bos_gb": 21.69
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:15",
+        "cpu": {
+            "kullanim_yuzde": 3.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.59,
+            "bos_gb": 21.69
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:18",
+        "cpu": {
+            "kullanim_yuzde": 7.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.6,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:21",
+        "cpu": {
+            "kullanim_yuzde": 3.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.61,
+            "bos_gb": 21.67
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:24",
+        "cpu": {
+            "kullanim_yuzde": 7.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.59,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:27",
+        "cpu": {
+            "kullanim_yuzde": 15.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 31.0,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.68,
+            "bos_gb": 21.6
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:30",
+        "cpu": {
+            "kullanim_yuzde": 6.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.9,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.66,
+            "bos_gb": 21.61
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:33",
+        "cpu": {
+            "kullanim_yuzde": 9.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.63,
+            "bos_gb": 21.65
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:36",
+        "cpu": {
+            "kullanim_yuzde": 4.2,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.63,
+            "bos_gb": 21.64
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:39",
+        "cpu": {
+            "kullanim_yuzde": 7.8,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.64,
+            "bos_gb": 21.64
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:42",
+        "cpu": {
+            "kullanim_yuzde": 9.0,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.6,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:45",
+        "cpu": {
+            "kullanim_yuzde": 4.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.53,
+            "bos_gb": 21.74
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:48",
+        "cpu": {
+            "kullanim_yuzde": 5.6,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:51",
+        "cpu": {
+            "kullanim_yuzde": 6.3,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.6,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:54",
+        "cpu": {
+            "kullanim_yuzde": 5.7,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.6,
+            "bos_gb": 21.68
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:26:57",
+        "cpu": {
+            "kullanim_yuzde": 4.1,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.57,
+            "bos_gb": 21.7
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:00",
+        "cpu": {
+            "kullanim_yuzde": 3.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.57,
+            "bos_gb": 21.71
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:03",
+        "cpu": {
+            "kullanim_yuzde": 3.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.5,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.55,
+            "bos_gb": 21.73
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:06",
+        "cpu": {
+            "kullanim_yuzde": 5.9,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.6,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.58,
+            "bos_gb": 21.7
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:09",
+        "cpu": {
+            "kullanim_yuzde": 9.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.7,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.59,
+            "bos_gb": 21.69
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:12",
+        "cpu": {
+            "kullanim_yuzde": 6.4,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.62,
+            "bos_gb": 21.66
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    },
+    {
+        "timestamp": "2026-05-24 12:27:15",
+        "cpu": {
+            "kullanim_yuzde": 5.5,
+            "cekirdek_fiziksel": 8,
+            "cekirdek_mantiksal": 16
+        },
+        "ram": {
+            "kullanim_yuzde": 30.8,
+            "toplam_gb": 31.28,
+            "kullanilan_gb": 9.63,
+            "bos_gb": 21.65
+        },
+        "disk": {
+            "kullanim_yuzde": 45.5,
+            "toplam_gb": 620.99,
+            "kullanilan_gb": 282.07
+        }
+    }
+]
